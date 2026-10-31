@@ -1,4 +1,9 @@
+# Only notebooks and datasets are tracked
+*
+!*/
+!*.ipynb
+!*.csv
+!.gitignore
 .claude/
 .ipynb_checkpoints/
-__pycache__/
 Datasets/
